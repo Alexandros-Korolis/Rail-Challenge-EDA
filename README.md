@@ -1,7 +1,7 @@
 # Rail Challenge Exploratory Data Analysis
 
 ## View of the report
-Download report here :
+Download report here : https://github.com/Alexandros-Korolis/Rail-Challenge-EDA/blob/main/EDA_National_Rail.pbix
 
 ![alt text](report_1.PNG)
 
