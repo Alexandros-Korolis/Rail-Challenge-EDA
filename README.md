@@ -3,7 +3,7 @@
 ## View of the report
 Download report here : https://github.com/Alexandros-Korolis/Rail-Challenge-EDA/blob/main/EDA_National_Rail.pbix
 
-![alt text](report_1.PNG)
+![alt text](report_2.PNG)
 
 ## Challenge Objective
 For the Maven Rail Challenge, you'll play the role of a BI Developer for National Rail, a company that provides business services to passenger train operators in England, Scotland, and Wales.
