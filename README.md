@@ -1,6 +1,13 @@
 # Rail Challenge Exploratory Data Analysis
 
-## View of the report
+<h2><strong>Table of Contents</strong></h2>
+
+- [Report View](#report-view)
+- [Challenge Objective](#challenge-objective)
+- [About the Dataset](#about-the-data-set)
+- [Report](#report)
+
+## Report View
 Download report here : https://github.com/Alexandros-Korolis/Rail-Challenge-EDA/blob/main/EDA_National_Rail.pbix
 
 ![alt text](report_3.PNG)
